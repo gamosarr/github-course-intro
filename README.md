@@ -2,6 +2,6 @@
 I am learning GitHub.
 
 ## Git Practice
-Learning Git locally.
+Updated Readme.md to force create a conflict
 
 this is a new branch named feature-git-practice
