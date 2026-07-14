@@ -5,3 +5,9 @@ I am learning GitHub.
 Updated Readme.md to force create a conflict
 
 this is a new branch named feature-git-practice
+<<<<<<< HEAD
+
+## New Task
+Working on a new feature.
+=======
+>>>>>>> main
